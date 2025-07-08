@@ -1,7 +1,3 @@
-
----
-
-````markdown
 # 🧠 LangChain ✨ Streamlit Chatbot with Ollama Gemma (2B)
 
 This project is a **minimal LLM chatbot interface** built with [LangChain](https://www.langchain.com/), [Streamlit](https://streamlit.io/), and [Ollama](https://ollama.com/).  
@@ -11,8 +7,7 @@ It demonstrates prompt templating, LangSmith tracing, and integrates the lightwe
 
 ## 📺 Demo
 
-▶️ **YouTube Walkthrough**: [Watch Here](https://www.youtube.com/watch?v=dQw4w9WgXcQ)  
-<!-- Replace this link with your real YouTube video -->
+▶️ **YouTube Walkthrough**: [Watch Here](https://www.youtube.com/watch?v=KFXmyPIc89g&list=PLe-YIIlt-fbO3hXVoaPK56ikWRT0A9Gzr&index=3&ab_channel=Jatin)
 
 ---
 
@@ -34,7 +29,7 @@ It demonstrates prompt templating, LangSmith tracing, and integrates the lightwe
 ├── .env                # Environment variables for LangChain
 ├── requirements.txt    # Python dependencies
 └── README.md           # Project documentation
-````
+```
 
 ---
 
@@ -43,8 +38,8 @@ It demonstrates prompt templating, LangSmith tracing, and integrates the lightwe
 ### 1️⃣ Clone the Repo
 
 ```bash
-git clone https://github.com/yourusername/ollama-sample-genai-app.git
-cd ollama-sample-genai-app
+git clone https://github.com/jatinydav557/simple-genai-app-gemma2b.git
+cd simple-genai-app-gemma2b
 ```
 
 ### 2️⃣ Install Dependencies
@@ -103,11 +98,18 @@ streamlit
 
 I’m a passionate Data Science & GenAI developer building end-to-end AI applications using **LangChain**, **MLOps**, and **LLMs**.
 
-📌 Looking for roles in:
-🧠 AI / LLM Engineering • 📊 Data Science • ⚙️ MLOps • 🧩 GenAI R\&D
+📌 Looking for roles in:  
+🧠 AI / LLM Engineering • 📊 Data Science • ⚙️ MLOps • 🧩 GenAI R&D
 
-🔗 [LinkedIn](https://www.linkedin.com/in/yourname)
-🌐 [Portfolio Website](https://yourwebsite.com)
+---
+
+## 🙋‍♂️ Let's Connect
+
+* **💼 LinkedIn:** [www.linkedin.com/in/jatin557](https://www.linkedin.com/in/jatin557)
+* **📦 GitHub:** [https://github.com/jatinydav557](https://github.com/jatinydav557)
+* **📬 Email:** [jatinydav557@gmail.com](mailto:jatinydav557@gmail.com)
+* **📱 Contact:** [`+91-7340386035`](tel:+917340386035)
+* **🎥 YouTube:** [Checkout my other working projects](https://www.youtube.com/@jatinML/playlists)
 
 ---
 
@@ -120,17 +122,3 @@ I’m a passionate Data Science & GenAI developer building end-to-end AI applica
 ---
 
 ⭐ If you like this project, give it a **star** and fork it to build your own!
-
-```
-
----
-
-✅ Now just **replace these placeholders**:
-
-- `https://www.youtube.com/watch?v=dQw4w9WgXcQ` → Your actual YouTube demo link  
-- `yourusername` → Your GitHub username  
-- `https://www.linkedin.com/in/yourname` → Your LinkedIn profile  
-- `https://yourwebsite.com` → Your portfolio website (optional)
-
-Let me know if you'd like help uploading to GitHub or generating a thumbnail too.
-```
